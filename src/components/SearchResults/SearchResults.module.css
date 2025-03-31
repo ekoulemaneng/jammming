@@ -1,0 +1,12 @@
+.Main {
+    background-color: indigo;
+    width: 49%;
+    padding: .5rem 1rem;
+}
+
+.Title {
+    font-size: 1.5rem;
+    border-bottom: 2px solid white;
+    margin-bottom: 1rem;
+    font-weight: bold;
+}

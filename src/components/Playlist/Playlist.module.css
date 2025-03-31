@@ -1,0 +1,40 @@
+.Main {
+    background-color: indigo;
+    width: 49%;
+    padding: .5rem 1rem;
+}
+
+.InputTitle {
+    width: 100%;
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid white;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 1rem;
+}
+
+.Button {
+    width: 11rem;
+    display: block;
+    margin: 1.5rem auto 1rem;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    font-size: 1.123rem;
+    border: 2px solid blue;
+    border-radius: 1rem;
+}
+
+.ButtonHovered {
+    width: 11rem;
+    display: block;
+    margin: 1.5rem auto 1rem;
+    background-color: darkblue;
+    color: white;
+    font-weight: bold;
+    font-size: 1.123rem;
+    border: 2px solid darkblue;
+    border-radius: 1rem;
+}

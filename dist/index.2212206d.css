@@ -1,0 +1,147 @@
+.cTdk1a_SearchBar {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.cTdk1a_Input {
+  border: 1px solid #00f;
+  border-radius: 5px;
+  width: 50%;
+  height: 2.5rem;
+  margin: .5rem auto;
+  padding: .5rem;
+  display: block;
+}
+
+.cTdk1a_InputOnFocus {
+  border: 3px solid #00008b;
+  border-radius: 5px;
+  width: 50%;
+  height: 2.5rem;
+  margin: .5rem auto;
+  padding: .5rem;
+  display: block;
+}
+
+.cTdk1a_Button {
+  color: #fff;
+  background-color: indigo;
+  border: 1px solid indigo;
+  border-radius: 10px;
+  width: 7rem;
+  margin: 1rem auto .5rem;
+  font-size: 1.125rem;
+  font-weight: bold;
+  display: block;
+}
+
+.cTdk1a_ButtonOnHover {
+  color: #fff;
+  background-color: #00f;
+  border: 1px solid indigo;
+  border-radius: 10px;
+  width: 7rem;
+  margin: 1rem auto .5rem;
+  font-size: 1.125rem;
+  font-weight: bold;
+  display: block;
+}
+
+._5fjzHq_Track {
+  border-bottom: 1px solid #fff;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem .5rem 1rem 0;
+  display: flex;
+}
+
+._5fjzHq_Title {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+._5fjzHq_Icon {
+  font-size: 1.25rem;
+}
+
+.dYz74W_List {
+  padding-left: 0;
+  list-style: none;
+}
+
+.aJHnlW_Main {
+  background-color: indigo;
+  width: 49%;
+  padding: .5rem 1rem;
+}
+
+.aJHnlW_Title {
+  border-bottom: 2px solid #fff;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.hjR5rq_Main {
+  background-color: indigo;
+  width: 49%;
+  padding: .5rem 1rem;
+}
+
+.hjR5rq_InputTitle {
+  color: #fff;
+  background-color: #0000;
+  border: none;
+  border-bottom: 2px solid #fff;
+  width: 100%;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.hjR5rq_Button {
+  color: #fff;
+  background-color: #00f;
+  border: 2px solid #00f;
+  border-radius: 1rem;
+  width: 11rem;
+  margin: 1.5rem auto 1rem;
+  font-size: 1.123rem;
+  font-weight: bold;
+  display: block;
+}
+
+.hjR5rq_ButtonHovered {
+  color: #fff;
+  background-color: #00008b;
+  border: 2px solid #00008b;
+  border-radius: 1rem;
+  width: 11rem;
+  margin: 1.5rem auto 1rem;
+  font-size: 1.123rem;
+  font-weight: bold;
+  display: block;
+}
+
+header {
+  text-align: center;
+  color: #fff;
+  background-color: indigo;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+span {
+  color: #00f;
+}
+
+main {
+  color: #fff;
+  justify-content: space-between;
+  width: 80%;
+  margin: 5rem auto;
+  display: flex;
+}
+/*# sourceMappingURL=index.2212206d.css.map */

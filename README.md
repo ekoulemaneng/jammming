@@ -1,6 +1,6 @@
 # Jammming
 
-Ravenous is a website application that allows to create a playlist of music and save it to a Spotify account.
+Jammming is a website application that allows to create a playlist of music and save it to a Spotify account.
 
 ## Purpose of the Project  
 

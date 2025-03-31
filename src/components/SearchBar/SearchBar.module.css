@@ -1,0 +1,48 @@
+.SearchBar {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.Input {
+    display: block;
+    width: 50%;
+    height: 2.5rem;
+    margin: .5rem auto;
+    border: 1px solid blue;
+    border-radius: 5px;
+    padding: 0.5rem;
+}
+
+.InputOnFocus {
+    display: block;
+    width: 50%;
+    height: 2.5rem;
+    margin: .5rem auto;
+    border-radius: 5px;
+    padding: 0.5rem;
+    border: 3px solid darkblue;
+}
+
+.Button {
+    display: block;
+    width: 7rem;
+    margin: 1rem auto .5rem;
+    background-color: indigo;
+    color: white;
+    font-weight: bold;
+    border: 1px solid indigo;
+    border-radius: 10px;
+    font-size: 1.125rem;
+}
+
+.ButtonOnHover {
+    display: block;
+    width: 7rem;
+    margin: 1rem auto .5rem;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border: 1px solid indigo;
+    border-radius: 10px;
+    font-size: 1.125rem;
+}
