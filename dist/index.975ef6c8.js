@@ -27253,6 +27253,7 @@ const App = ()=>{
                 });
                 const userID = await (0, _httpRequests.getSpotifyUserID)(accessToken);
                 (0, _localStorageHandlers.saveSpotifyUserID)(userID);
+                window.location.href = new URL('http://127.0.0.1:1234/').toString();
             } else await (0, _httpRequests.requestUserAuthorization)(codeVerifier);
         };
         const refreshingToken = async ()=>{
@@ -27305,14 +27306,14 @@ const App = ()=>{
                         children: "mmm"
                     }, void 0, false, {
                         fileName: "src/App.js",
-                        lineNumber: 85,
+                        lineNumber: 86,
                         columnNumber: 23
                     }, undefined),
                     "ing"
                 ]
             }, void 0, true, {
                 fileName: "src/App.js",
-                lineNumber: 85,
+                lineNumber: 86,
                 columnNumber: 13
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _searchBar.SearchBar), {
@@ -27327,7 +27328,7 @@ const App = ()=>{
                 setTracks: setTracks
             }, void 0, false, {
                 fileName: "src/App.js",
-                lineNumber: 86,
+                lineNumber: 87,
                 columnNumber: 13
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("main", {
@@ -27338,7 +27339,7 @@ const App = ()=>{
                         tracklistType: "results"
                     }, void 0, false, {
                         fileName: "src/App.js",
-                        lineNumber: 98,
+                        lineNumber: 99,
                         columnNumber: 17
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _playlist.Playlist), {
@@ -27351,13 +27352,13 @@ const App = ()=>{
                         resetPlaylist: resetPlaylist
                     }, void 0, false, {
                         fileName: "src/App.js",
-                        lineNumber: 103,
+                        lineNumber: 104,
                         columnNumber: 17
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/App.js",
-                lineNumber: 97,
+                lineNumber: 98,
                 columnNumber: 13
             }, undefined)
         ]

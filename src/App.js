@@ -36,6 +36,7 @@ export const App = () => {
                 saveAccessToken({ accessToken, expiresIn, refreshToken, scope });
                 const userID = await getSpotifyUserID(accessToken);
                 saveSpotifyUserID(userID);
+                window.location.href = new URL('http://127.0.0.1:1234/').toString();
             } else await requestUserAuthorization(codeVerifier);
 
         }
