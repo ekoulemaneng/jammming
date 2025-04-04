@@ -1,4 +1,4 @@
-export const clientId = "e31134f093d5432aa30edbe4c5a3dce5";
+export const clientId = "SpotifyClientID";
 
 export const redirectUri = "http://127.0.0.1:1234";
 
